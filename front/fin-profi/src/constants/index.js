@@ -1,0 +1,4 @@
+import { COLORS } from './colors'
+import { AUTH, BASE_URL, POINTS_PER_ARTICLE, POINTS_PER_QUIZ } from './names'
+
+export { COLORS, AUTH, BASE_URL, POINTS_PER_ARTICLE, POINTS_PER_QUIZ }
